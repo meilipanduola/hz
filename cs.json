@@ -1,0 +1,239 @@
+{
+    "peizhi": {
+        "wallpaper": "https://tool.weetai.cn/api",
+        "zhuyejiekou": [
+            {
+                "name":"数字┃影视",
+                "url":"http://110.41.86.238:88/api.php/provide/vod"
+            },
+            {
+                "name":"豪华┃影视",
+                "url":"https://hhzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name":"鑫鑫┃影视",
+                "url":"http://yingszj.xn--654a.cc/api.php/app"
+            },
+            {
+                "name":"非凡┃资源",
+                "url":"http://cj.ffzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name":"北方┃资源",
+                "url":"https://bfzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name":"Ikun┃资源",
+                "url":"https://ikunzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name":"量子┃资源",
+                "url":"http://cj.lziapi.com/api.php/provide/vod/"
+            }   
+        ],
+        "zhujiexi": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=#http://jx.fuqizhishi.com:63/接口地址www.肥猫.love/肥猫专用.php?url=#http://xiaoxin.1080p.fun/home/api?type=ys&uid=91198&key=bhntuwyAJLMTUY1478&url=#http://27.124.4.42:4567/jhjson/ceshi.php?url=#http://27.124.4.42:4567/jhjson/ceshi.php?url=#https://www.itvbox.cc/api.maoyingshi.cc/api.php?url=#http://jm.maoyingshi.cc/yunxing.php?url=#http://27.124.4.42:4567/jhjson/ceshi.php?url=#http://lanlan.ckflv.cn/?url=#http://1.15.229.186/jiexi/jx2.php?type=1&url=#https://qny4.top/addons/dp/player/dp.php?key=0&api=&url=http://app.9rai.com/bygjx/?url=#https://json.xn--9kq078cdn3a.cc/api/?key=694138485bf1110c147f85d92e86edc3&url=#http://119.91.123.253:2345/Api/yun.php?url=",
+        "beiyongjiexi": "https://www.nxflv.com/?url=#https://dm.xmflv.com:4433/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.bozrc.com:4433/player/?url=#https://jx.m3u8.pw/?url=#https://jx.quankan.app/?url=#https://www.mtosz.com/erzi.php?url=#https://www.mtosz.com/m3u8.php?url=#https://api.qianqi.net/vip/?url=#https://jx.bozrc.com:4433/player/?url=#https://jxdp.codermart.net/?url=#https://jx.aidouer.net/?url=#https://jx.m3u8.pw/?url=#https://jx.quankan.app/?url=#https://www.mtosz.com/erzi.php?url=#https://www.mtosz.com/m3u8.php?url=#https://api.qianqi.net/vip/?url=#https://jx.bozrc.com:4433/player/?url=#https://jxdp.codermart.net/?url=#https://jx.aidouer.net/?url=#http://www.ckmov.vip/api.php?url=#https://jx.zhanlangbu.com/?url=#https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.xmflv.com/?url=#https://43.240.74.102:4433?url=#https://www.ckplayer.vip/jiexi/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.yangtu.top/?url=#https://jx.jsonplayer.com/player/?url=#https://www.8090g.cn/?url=#https://www.pouyun.com/?url=#https://jx.aidouer.net/?url=#https://jx.xmflv.com/?url=#https://jx.yangtu.top/?url=#https://www.yemu.xyz/?url=#https://jx.jsonplayer.com/player/?url=#https://www.8090g.cn/?url=",
+        "jiexizhan": "qq.com#iqiyi.com#youku.com#sohu.com#le.com#mgtv.com#renrenmi-#ixigua.com#pptv.com#miguvideo.com#wuduyun-#LT-#BYGA-#xfy-#1905.com#RongXingVR-#xueren-",
+        "dianshizhibo": "",
+        "tuijianzhuye": "https://agit.ai/meilipanduola/hz/raw/branch/master/cs.json",
+        "gengxinqingqiutou": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
+        "jiaoxue": "",
+        "lunbo": "",
+        "yingyong": "https://agit.ai/meilipanduola/hz/raw/branch/master/app.json",
+        "dougu": "https://agit.ai/meilipanduola/hz/raw/branch/master/dougu.json",
+        "bofangtezheng": ".mp4|.mkv|.m3u8|.flv|.aspx|s1.czspp.com:7721|pdsapi.aliyundrive.com/v2/redirect?id=|-data.aliyundrive.net|admin.syrme.top/file|sf6-eecdn-tos.pstatp.com/obj|?video_id=|video_mp4",
+        "banben": "2024.03.03修复进入卡顿，修复闪退问题app#mg#C9BE9EDAAC8CCD1A15D1F2E15FBBDE422CEE4CC8502C8A53228C9A9A5B1F4CA38AC5C4C6",
+        "ads": [
+            "mimg.0c1q0l.cn",
+            "www.googletagmanager.com",
+            "www.google-analytics.com",
+            "mc.usihnbcq.cn",
+            "mg.g1mm3d.cn",
+            "mscs.svaeuzh.cn",
+            "cnzz.hhttm.top",
+            "tp.vinuxhome.com",
+            "cnzz.mmstat.com",
+            "www.baihuillq.com",
+            "s23.cnzz.com",
+            "z3.cnzz.com",
+            "c.cnzz.com",
+            "stj.v1vo.top",
+            "z12.cnzz.com",
+            "img.mosflower.cn",
+            "tips.gamevvip.com",
+            "ehwe.yhdtns.com",
+            "xdn.cqqc3.com",
+            "www.jixunkyy.cn",
+            "sp.chemacid.cn",
+            "hm.baidu.com",
+            "s9.cnzz.com",
+            "z6.cnzz.com",
+            "um.cavuc.com",
+            "mav.mavuz.com",
+            "wofwk.aoidf3.com",
+            "z5.cnzz.com",
+            "xc.hubeijieshikj.cn",
+            "tj.tianwenhu.com",
+            "xg.gars57.cn",
+            "k.jinxiuzhilv.com",
+            "cdn.bootcss.com",
+            "ppl.xunzhuo123.com",
+            "xomk.jiangjunmh.top",
+            "img.xunzhuo123.com",
+            "z1.cnzz.com",
+            "s13.cnzz.com",
+            "xg.huataisangao.cn",
+            "z7.cnzz.com",
+            "xg.huataisangao.cn",
+            "z2.cnzz.com",
+            "s96.cnzz.com",
+            "q11.cnzz.com",
+            "thy.dacedsfa.cn",
+            "xg.whsbpw.cn",
+            "s19.cnzz.com",
+            "z8.cnzz.com",
+            "s4.cnzz.com",
+            "f5w.as12df.top",
+            "ae01.alicdn.com",
+            "www.92424.cn",
+            "k.wudejia.com",
+            "vivovip.mmszxc.top",
+            "qiu.xixiqiu.com",
+            "cdnjs.hnfenxun.com",
+            "=http",
+            "_preview.mp4",
+            "404_0.mp4",
+            "51.la",
+            "1653407140497.m3u8",
+            "c067152bd08c369a09b634396ebb2d4c_preview.mp4",
+            ".254952.mp4",
+            "82c8ac4d26338fc8882bc243f89a31e5.mp4",
+            "_20221202130027.mp4",
+            "a9c81f35-9f12-4242-b65c-cfbb0100101d.mp4",
+            "fangdao.m3u8",
+            "Admin.m3u8",
+            "ad1be90bba2842e3b69f9ab2b750ebdb4599.mp4",
+            "N6TgBHu2/index.m3u8",
+            "cms.qdwght.com"
+        ],
+        "Cookie": [
+            "innersign=0;buvid3=2E536ADC-CD6D-46AB-A9FF-904395151EE369713infoc;b_nut=1669016569;i-wanna-go-back=-1;b_ut=7;_uuid=761F7F106-C575-884D-6C10A-92BC10A10D10FBC68934infoc;buvid4=5B25B999-AE15-E09A-A0CC-3661981B71BF70255-122112115-JOyWSaNZfI2kZmT1KYmcQA%3D%3D;fingerprint=6d9ef93c89a567d22b6a9c4104e6cc50;buvid_fp_plain=undefined;buvid_fp=6d9ef93c89a567d22b6a9c4104e6cc50;SESSDATA=2d6f63c8%2C1684568607%2C19eb6%2Ab1;bili_jct=21d538b01566c26afc81ff68c2ac7dca;DedeUserID=3493083203242585;DedeUserID__ckMd5=7b86f3894ed7f8c0;sid=ng0uyvaz;b_lsid=97FB69A2_1869DE8E2C5;bg_view_44176=720227",
+            ""
+        ],
+        "zidingyi": [
+
+        ],
+        "special": [
+            {
+                "name": "红领巾",
+                "hosts": [
+                    "player1",
+                    "vodplay",
+                    "RC4",
+                    "202304111427163729"
+                ]
+            }
+        ],
+        "rules": [
+            {
+                "name": "proxy",
+                "hosts": [
+                    "raw.githubusercontent.com",
+                    "googlevideo.com",
+                    "cdn.v82u1l.com",
+                    "cdn.iz8qkg.com",
+                    "cdn.kin6c1.com",
+                    "c.biggggg.com",
+                    "c.olddddd.com",
+                    "haiwaikan.com",
+                    "www.histar.tv",
+                    "youtube.com",
+                    "uhibo.com",
+                    ".*boku.*",
+                    ".*nivod.*",
+                    ".*ulivetv.*"
+                ]
+            },
+            {
+                "name": "海外看",
+                "hosts": [
+                    "haiwaikan"
+                ],
+                "regex": [
+                    "8.1748",
+                    "10.0099",
+                    "10.3333",
+                    "16.0599"
+                ]
+            },
+            {
+                "name": "暴風",
+                "hosts": [
+                    "bfzy"
+                ],
+                "regex": [
+                    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:3,[\s\S]*?#EXT-X-DISCONTINUITY"
+                ]
+            },
+            {
+                "name": "星星",
+                "hosts": [
+                    "aws.ulivetv.net"
+                ],
+                "regex": [
+                    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:8,[\s\S]*?#EXT-X-DISCONTINUITY"
+                ]
+            },
+            {
+                "name": "量子",
+                "hosts": [
+                    "vip.lz",
+                    "hd.lz",
+                    "v.cdnlz"
+                ],
+                "regex": [
+                    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.433333,[\s\S]*?#EXT-X-DISCONTINUITY",
+                    "#EXTINF.*?\s+.*?1o.*?\.ts\s+"
+                ]
+            },
+            {
+                "name": "非凡",
+                "hosts": [
+                    "vip.ffzy",
+                    "hd.ffzy"
+                ],
+                "regex": [
+                    "#EXT-X-DISCONTINUITY\r*\n*#EXTINF:6.666667,[\s\S]*?#EXT-X-DISCONTINUITY",
+                    "#EXTINF.*?\s+.*?1o.*?\.ts\s+"
+                ]
+            },
+            {
+                "name": "火山嗅探",
+                "hosts": [
+                    "huoshan.com"
+                ],
+                "regex": [
+                    "item_id="
+                ]
+            },
+            {
+                "name": "抖音嗅探",
+                "hosts": [
+                    "douyin.com"
+                ],
+                "regex": [
+                    "is_play_url="
+                ]
+            },
+            {
+                "name": "農民嗅探",
+                "hosts": [
+                    "toutiaovod.com"
+                ],
+                "regex": [
+                    "video/tos/cn"
+                ]
+            }
+        ]
+    }
+}
