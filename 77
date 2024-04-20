@@ -1,3 +1,21 @@
+央视V4,#genre#
+CCTV-1 综合,http://iptv.shicheng.wang:2024/live/CCTV1高清/index.m3u8
+CCTV-2 财经,http://iptv.shicheng.wang:2024/live/CCTV2高清/index.m3u8
+CCTV-3 综艺,http://iptv.shicheng.wang:2024/live/CCTV3高清/index.m3u8
+CCTV-4 中文国际,http://iptv.shicheng.wang:2024/live/CCTV4高清/index.m3u8
+CCTV-5 体育,http://iptv.shicheng.wang:2024/live/CCTV5高清/index.m3u8
+CCTV-6 电影,http://iptv.shicheng.wang:2024/live/CCTV6高清/index.m3u8
+CCTV-7 国防军事,http://iptv.shicheng.wang:2024/live/CCTV7高清/index.m3u8
+CCTV-8 电视剧,http://iptv.shicheng.wang:2024/live/CCTV8高清/index.m3u8
+CCTV-9 纪录,http://iptv.shicheng.wang:2024/live/CCTV9高清/index.m3u8
+CCTV-10 科教,http://iptv.shicheng.wang:2024/live/CCTV10高清/index.m3u8
+CCTV-11 戏曲,http://iptv.shicheng.wang:2024/live/CCTV11高清/index.m3u8
+CCTV-12 社会与法,http://iptv.shicheng.wang:2024/live/CCTV12高清/index.m3u8
+CCTV-13 新闻,http://iptv.shicheng.wang:2024/live/CCTV13/index.m3u8
+CCTV-14 少儿,http://iptv.shicheng.wang:2024/live/CCTV14高清/index.m3u8
+CCTV-15 音乐,http://iptv.shicheng.wang:2024/live/CCTV15高清/index.m3u8
+CCTV-17 农业农村,http://iptv.shicheng.wang:2024/live/CCTV17高清/index.m3u8
+
 央视频道,#genre#
 CCTV-1 综合,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
