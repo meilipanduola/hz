@@ -12,6 +12,10 @@
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%E9%BB%91%E7%8B%90%E5%BD%B1%E8%A7%86.json"
             },
             {
+                "name": "在线之家",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/Json_%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.json"
+            },
+            {
                 "name": "农民┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%E5%86%9C%E6%B0%91%E5%BD%B1%E8%A7%86.json"
             },
@@ -354,10 +358,6 @@
             {
                 "name": "云播看看",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/Json_%e4%ba%91%e6%92%ad%e7%9c%8b%e7%9c%8b.json"
-            },
-            {
-                "name": "在线之家",
-                "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/Json_%e5%9c%a8%e7%ba%bf%e4%b9%8b%e5%ae%b6.json"
             },
             {
                 "name": "动漫直链",
