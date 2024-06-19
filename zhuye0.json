@@ -6,7 +6,11 @@
                 "name": "火火┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
             },
-           
+           {
+                "name": "1080┃电影",
+                "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/1080%E5%BD%B1%E8%A7%86.json"
+            },
+            
             {
                 "name": "黑狐┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%E9%BB%91%E7%8B%90%E5%BD%B1%E8%A7%86.json"
