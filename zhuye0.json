@@ -36,6 +36,14 @@
                 "url": "https://cj.lbbb.cc/api.php/provide/vod/"
             },
             {
+                "name": "蚂蚁┃影视",
+                "url": "http://dsakf23665.com/api.php/provide/vod/"
+            },
+            {
+                "name": "文才┃影视",
+                "url": "https://api.zeqaht.com/api.php/provide/vod/"
+            },
+            {
                 "name": "克拉┃影视",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%e5%85%8b%e6%8b%89%e5%bd%b1%e8%a7%86.json"
             },
@@ -3321,7 +3329,7 @@
             }
         ],
         "zhujiexi": "https://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=http://122.228.84.103:7777/api/?key=EauMlPIBC3spoYGaOB&url=#http://pan.qiaoji8.com/tvbox/neibu.php?url=#http://119.91.123.253:2345/Api/yun.php?url=#http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=#http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-        "beiyongjiexi": "https://jx.xmflv.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.yangtu.top/?url=#https://www.ckplayer.vip/jiexi/?url=#https://jx.aidouer.net/?url=#https://www.yemu.xyz/?url=#https://www.8090g.cn/?url=#https://api.qianqi.net/vip/?url=#https://www.pouyun.com/?url=",
+        "beiyongjiexi": "https://jx.xmflv.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.m3u8.tv/jx/jx.php?url=#https://www.cgdyw.net/jiexi/jiekou-2/?url=#https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.yangtu.top/?url=#https://www.ckplayer.vip/jiexi/?url=#https://jx.aidouer.net/?url=#https://www.yemu.xyz/?url=#https://www.8090g.cn/?url=#https://api.qianqi.net/vip/?url=#https://www.pouyun.com/?url=",
         "jiexizhan": "qq.com#iqiyi.com#youku.com#sohu.com#le.com#mgtv.com#renrenmi-#ixigua.com#pptv.com#miguvideo.com#wuduyun-#LT-#BYGA-#xfy-#1905.com#RongXingVR-#xueren-#SMD",
         "dianshizhibo": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/hz/main/77",
         "tuijianzhuye": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/hz/main/zhuye0.json",
