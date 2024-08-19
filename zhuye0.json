@@ -32,12 +32,28 @@
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%e4%b8%83%e5%b9%b4%e5%bd%b1%e8%a7%86.json"
             },
             {
-                "name": "慧辰┃影视",
+                "name": "影酷┃4K",
+                "url": "http://111.173.115.204:5566/api.php/app/"
+            },
+            {
+                "name": "自营┃影视",
+                "url": "http://122.228.85.203:3366/api.php/app/"
+            },
+            {
+                "name": "独家┃影视",
+                "url": "http://111.173.115.204:1111/api.php/app/"
+            },
+            {
+                "name": "360┃影视",
                 "url": "https://360zy.com/api.php/provide/vod/"
             },
             {
                 "name": "萝卜┃影视",
                 "url": "https://cj.lbbb.cc/api.php/provide/vod/"
+            },
+            {
+                "name": "自营┃蓝光",
+                "url": "http://122.228.85.203:1000/api.php/app/"
             },
             {
                 "name": "蚂蚁┃影视",
