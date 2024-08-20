@@ -6,11 +6,10 @@
                 "name": "火火┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%e9%aa%9a%e7%81%ab%e7%94%b5%e5%bd%b1.json"
             },
-           {
+            {
                 "name": "1080┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/1080%E5%BD%B1%E8%A7%86.json"
             },
-            
             {
                 "name": "黑狐┃电影",
                 "url": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/jar/main/%E9%BB%91%E7%8B%90%E5%BD%B1%E8%A7%86.json"
@@ -206,6 +205,446 @@
             {
                 "name": "U酷资源",
                 "url": "https://api.ukuapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "极速资源",
+                "url": "https://jszyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "雨哥哥影视",
+                "url": "http://cj.baozi66.top:66/api.php/provide/vod/"
+            },
+            {
+                "name": "爱坤资源",
+                "url": "https://ikunzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "360资源1",
+                "url": "https://360zy.com/api.php/seaxml/vod"
+            },
+            {
+                "name": "360资源2",
+                "url": "https://360zy.com/api.php/provide/vod/"
+            },
+            {
+                "name": "火狐资源",
+                "url": "https://hhzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "非凡资源",
+                "url": "http://cj.ffzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "八戒资源(php)",
+                "url": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+            },
+            {
+                "name": "映迷资源",
+                "url": "https://www.inmi.app/api.php/provide/vod/"
+            },
+            {
+                "name": "爱坤资源json",
+                "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/"
+            },
+            {
+                "name": "飞速资源1",
+                "url": "https://www.feisuzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "虎牙资源",
+                "url": "https://www.huyaapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "优质资源库",
+                "url": "https://api.1080zyku.com/inc/api.php/provide/vod/"
+            },
+            {
+                "name": "天空资源",
+                "url": "https://api.tiankongapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "索尼资源",
+                "url": "https://suoniapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "速播资源",
+                "url": "https://subocaiji.com/api.php/provide/vod"
+            },
+            {
+                "name": "卧龙资源",
+                "url": "https://collect.wolongzyw.com/api.php/provide/vod"
+            },
+            {
+                "name": "天翼资源",
+                "url": "https://www.911ysw.top/tianyi.php/provide/vod/"
+            },
+            {
+                "name": "天翼资源(json)",
+                "url": "https://www.911ysw.top/tianyi.php/provide/vod/at/json"
+            },
+            {
+                "name": "天空资源1",
+                "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "天空资源(tkm3u8)",
+                "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
+            },
+            {
+                "name": "1080资源",
+                "url": "https://api.1080zyku.com/inc/api_mac10.php"
+            },
+            {
+                "name": "光速资源(gsm3u8)",
+                "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+            },
+            {
+                "name": "快车资源",
+                "url": "https://caiji.kczyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "神马云",
+                "url": "https://api.1080zyku.com/inc/apijson.php/"
+            },
+            {
+                "name": "樱花资源",
+                "url": "https://m3u8.apiyhzy.com/api.php/provide/vod"
+            },
+            {
+                "name": "飞速资源3",
+                "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "优酷资源",
+                "url": "https://api.ukuapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "影图资源",
+                "url": "https://cj.vodimg.top/api.php/provide/vod"
+            },
+            {
+                "name": "CK资源",
+                "url": "https://ckzy.me/api.php/provide/vod/"
+            },
+            {
+                "name": "新浪资源",
+                "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod"
+            },
+            {
+                "name": "快车资源(kcm3u8)",
+                "url": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+            },
+            {
+                "name": "百度资源",
+                "url": "https://api.apibdzy.com/api.php/provide/vod/"
+            },
+            {
+                "name": "红牛资源(hnm3u8)",
+                "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+            },
+            {
+                "name": "闪电资源(sdm3u8)",
+                "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
+            },
+            {
+                "name": "飞速资源2",
+                "url": "http://fszy1.com/api.php/provide/vod/"
+            },
+            {
+                "name": "快看资源",
+                "url": "https://kuaikan-api.com/api.php/provide/vod"
+            },
+            {
+                "name": "私密影院",
+                "url": "https://simiyy.com/api.php/provide/vod/"
+            },
+            {
+                "name": "金鹰资源1",
+                "url": "https://jyzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "39影视(json)",
+                "url": "https://www.39kan.com/api.php/provide/vod/at/json/"
+            },
+            {
+                "name": "量子资源",
+                "url": "https://cj.lziapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "闪电资源",
+                "url": "http://sdzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "暴风资源",
+                "url": "https://bfzyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "华为资源",
+                "url": "https://hw8.live/api.php/provide/vod"
+            },
+            {
+                "name": "量子资源(lzm3u8)",
+                "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+            },
+            {
+                "name": "神马资源",
+                "url": "https://img.smdyw.top/api.php/provide/vod"
+            },
+            {
+                "name": "无尽资源资源net",
+                "url": "https://api.wujinapi.net/api.php/provide/vod/"
+            },
+            {
+                "name": "最大资源",
+                "url": "https://api.zuidapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "飘零资源",
+                "url": "https://p2100.net/api.php/provide/vod"
+            },
+            {
+                "name": "金鹰资源(jinyingm3u8)",
+                "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"
+            },
+            {
+                "name": "步步高资源(json)",
+                "url": "https://api.yparse.com/api/json"
+            },
+            {
+                "name": "极速┃YYDS",
+                "url": "https://jszyapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "魔都┃YYDS",
+                "url": "https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/"
+            },
+            {
+                "name": "39影视┃YYDS",
+                "url": "https://www.39kan.com/api.php/provide/vod/"
+            },
+            {
+                "name": "豪华┃YYDS",
+                "url": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8"
+            },
+            {
+                "name": "天空2┃YYDS",
+                "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "天空3┃YYDS",
+                "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
+            },
+            {
+                "name": "虎牙┃YYDS",
+                "url": "https://www.huyaapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "天空4┃YYDS",
+                "url": "https://api.tiankongapi.com/api.php/provide/vod/from/tkm3u8/"
+            },
+            {
+                "name": "资源2┃YYDS",
+                "url": "https://api.1080zyku.com/inc/api_mac10.php"
+            },
+            {
+                "name": "飘零┃YYDS",
+                "url": "https://p2100.net/api.php/provide/vod"
+            },
+            {
+                "name": "速播┃YYDS",
+                "url": "https://subocaiji.com/api.php/provide/vod/"
+            },
+            {
+                "name": "三六2┃YYDS",
+                "url": "https://360zy.com/api.php/seaxml/vod"
+            },
+            {
+                "name": "天翼┃YYDS",
+                "url": "https://www.911ysw.top/tianyi.php/provide/vod/"
+            },
+            {
+                "name": "精英┃YYDS",
+                "url": "https://jyzyapi.com/provide/vod/"
+            },
+            {
+                "name": "天翼2┃YYDS",
+                "url": "https://www.911ysw.top/tianyi.php/provide/vod/at/json"
+            },
+            {
+                "name": "三六┃YYDS",
+                "url": "https://360zy.com/api.php/provide/vod/"
+            },
+            {
+                "name": "飞速┃YYDS",
+                "url": "https://m3u8.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "name": "快看┃YYDS",
+                "url": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/"
+            },
+            {
+                "name": "飞速4┃YYDS",
+                "url": "http://fszy1.com/api.php/provide/vod/"
+            },
+            {
+                "name": "飞速2┃YYDS",
+                "url": "https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/"
+            },
+            {
+                "name": "最大┃YYDS",
+                "url": "https://api.zuidapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "神马2┃YYDS",
+                "url": "https://api.1080zyku.com/inc/apijson.php/"
+            },
+            {
+                "name": "闪电3┃YYDS",
+                "url": "http://sdzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "红牛┃YYDS",
+                "url": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/"
+            },
+            {
+                "name": "u酷┃YYDS",
+                "url": "https://api.ukuapi.com/api.php/provide/vod"
+            },
+            {
+                "name": "u酷2┃YYDS",
+                "url": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/"
+            },
+            {
+                "name": "优质┃YYDS",
+                "url": "https://api.1080zyku.com/inc/api.php/provide/vod/"
+            },
+            {
+                "name": "木耳┃YYDS",
+                "url": "https://json.heimuer.xyz/api.php/provide/vod/"
+            },
+            {
+                "name": "樱花┃YYDS",
+                "url": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/"
+            },
+            {
+                "name": "快车┃YYDS",
+                "url": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/"
+            },
+            {
+                "name": "爱蛋┃YYDS",
+                "url": "https://lovedan.net/api.php/provide/vod"
+            },
+            {
+                "name": "华为┃YYDS",
+                "url": "https://cjhwba.com/api.php/provide/vod/"
+            },
+            {
+                "name": "百度┃YYDS",
+                "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/"
+            },
+            {
+                "name": "CK┃YYDS",
+                "url": "https://ckzy.me/api.php/provide/vod/"
+            },
+            {
+                "name": "卧龙┃YYDS",
+                "url": "https://collect.wolongzyw.com/api.php/provide/vod/"
+            },
+            {
+                "name": "爱坤┃YYDS",
+                "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"
+            },
+            {
+                "name": "神马┃YYDS",
+                "url": "https://img.smdyw.top/api.php/provide/vod"
+            },
+            {
+                "name": "金鹰┃YYDS",
+                "url": "https://jyzyapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "金鹰2┃YYDS",
+                "url": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/"
+            },
+            {
+                "name": "光速┃YYDS",
+                "url": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/"
+            },
+            {
+                "name": "新浪┃YYDS",
+                "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/"
+            },
+            {
+                "name": "量子┃YYDS",
+                "url": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/"
+            },
+            {
+                "name": "八戒┃YYDS",
+                "url": "http://cj.bajiecaiji.com/inc/apijson_vod.php"
+            },
+            {
+                "name": "闪电┃YYDS",
+                "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8"
+            },
+            {
+                "name": "闪电4┃YYDS",
+                "url": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/"
+            },
+            {
+                "name": "华为2┃YYDS",
+                "url": "https://hw8.live/api.php/provide/vod"
+            },
+            {
+                "name": "无尽3┃YYDS",
+                "url": "https://api.wujinapi.net/api.php/provide/vod/"
+            },
+            {
+                "name": "暴风┃YYDS",
+                "url": "https://bfzyapi.com/api.php/provide/vod/from/bfzym3u8/"
+            },
+            {
+                "name": "影图┃YYDS",
+                "url": "https://cj.vodimg.top/api.php/provide/vod"
+            },
+            {
+                "name": "闪电2┃YYDS",
+                "url": "https://xsd.sdzyapi.com/api.php/provide/vod/from/sdm3u8"
+            },
+            {
+                "name": "39影视2┃YYDS",
+                "url": "https://www.39kan.com/api.php/provide/vod/at/json/"
+            },
+            {
+                "name": "爱坤2┃YYDS",
+                "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json/"
+            },
+            {
+                "name": "索尼┃YYDS",
+                "url": "https://suoniapi.com/api.php/provide/vod/"
+            },
+            {
+                "name": "无尽2┃YYDS",
+                "url": "https://api.wujinapi.me/api.php/provide/vod"
+            },
+            {
+                "name": "哔哩┃YYDS",
+                "url": "https://www.qiaoji8.com/tvbox/bili.json"
+            },
+            {
+                "name": "爱克┃YYDS",
+                "url": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/"
+            },
+            {
+                "name": "立播┃YYDS",
+                "url": "https://libvio.link/static/js/playerconfig.js"
+            },
+            {
+                "name": "儿童启蒙",
+                "url": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js"
+            },
+            {
+                "name": "厂长┃YYDS",
+                "url": "https://www.czzy77.com/"
             },
             {
                 "name": "具全",
@@ -3353,7 +3792,7 @@
             }
         ],
         "zhujiexi": "http://pan.qiaoji8.com/tvbox/neibu.php?url=#http://jk.mcyan.cn/index.php?url=#http://pan.qiaoji8.com/tvbox/gouzi.php?url=#https://json.xn--cerrw216dja891if19b.xn--fiqs8s/?url=http://122.228.84.103:7777/api/?key=EauMlPIBC3spoYGaOB&url=#http://pan.qiaoji8.com/tvbox/neibu.php?url=#http://119.91.123.253:2345/Api/yun.php?url=#http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url=#http://110.42.2.247:8001/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url=",
-        "beiyongjiexi": "https://jx.77flv.cc/?url=#https://yparse.ik9.cc/index.php?url=#https://jx.xmflv.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.m3u8.tv/jx/jx.php?url=#https://www.cgdyw.net/jiexi/jiekou-2/?url=#https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.yangtu.top/?url=#https://www.ckplayer.vip/jiexi/?url=#https://jx.aidouer.net/?url=#https://www.yemu.xyz/?url=#https://www.8090g.cn/?url=#https://api.qianqi.net/vip/?url=#https://www.pouyun.com/?url=",
+        "beiyongjiexi": "https://jx.77flv.cc/?url=#https://jx.yparse.com/index.php?url=#https://yparse.ik9.cc/index.php?url=#https://jx.xmflv.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://jx.m3u8.tv/jx/jx.php?url=#https://www.cgdyw.net/jiexi/jiekou-2/?url=#https://jx.777jiexi.com/player/?url=#https://jx.jsonplayer.com/player/?url=#https://jx.yangtu.top/?url=#https://www.ckplayer.vip/jiexi/?url=#https://jx.aidouer.net/?url=#https://www.yemu.xyz/?url=#https://www.8090g.cn/?url=#https://api.qianqi.net/vip/?url=#https://www.pouyun.com/?url=",
         "jiexizhan": "qq.com#iqiyi.com#youku.com#sohu.com#le.com#mgtv.com#renrenmi-#ixigua.com#pptv.com#miguvideo.com#wuduyun-#LT-#BYGA-#xfy-#1905.com#RongXingVR-#xueren-#SMD",
         "dianshizhibo": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/hz/main/77",
         "tuijianzhuye": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/hz/main/zhuye0.json",
