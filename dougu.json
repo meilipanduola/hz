@@ -8,7 +8,7 @@
         "home urlB": "https://m.douyin.com/share/video/",
         "home urlC": "https://www.douyin.com/aweme/v1/web/aweme/detail/?aweme_id=",
         "home urlD": "https://www.iesdouyin.com/web/api/v2/aweme/iteminfo/?reflow_source=reflow_page&item_ids={}&a_bogus=",
-        "home urlE": "https://www.douyin.com/aweme/v1/web/aweme/detail/?device_platform=webapp&aid=6383&channel=channel_pc_web&aweme_id=",
+        "home urlE": "https://www.douyin.com/discover?modal_id=",
         "xieyitou": "https://ghproxy.net/https://raw.githubusercontent.com/meilipanduola/hz/main/douguxieyitou.json"
     },
     "温州鼓词": [
