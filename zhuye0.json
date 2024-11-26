@@ -7,10 +7,6 @@
                 "url": "https://360zy.com/api.php/provide/vod/"
             },
             {
-                "name": "1080资源",
-                "url": "https://api.1080zyku.com/inc/api_mac10.php"
-            },
-            {
                 "name": "爱坤资源",
                 "url": "https://ikunzyapi.com/api.php/provide/vod/"
             },
@@ -1981,8 +1977,8 @@
         "dougu": "https://ghproxy.liuzhicong.com/https://raw.githubusercontent.com/meilipanduola/hz/main/dougu.json",
         "bofangtezheng": ".mp4|.mkv|.m3u8|.flv|.aspx|s1.czspp.com:7721|pdsapi.aliyundrive.com/v2/redirect?id=|-data.aliyundrive.net|admin.syrme.top/file|sf6-eecdn-tos.pstatp.com/obj|?video_id=|video_mp4|fileV2?fid=|.akamaized.net/",
         "zhijiebofang": "bdric-cdn-tos.1ljx.com/",
-        "banben": "<bbh>2024.09.16</bbh><gxsm>修正去广告</gxsm><xzdz>app#mg24.09.16#C9BE9EDAAC8CCD1A5396B3FD03F4DB4B37F45C831D30971D28B1E4B86D1C0DA38C83919B81CCC66C8927FE</xzdz>",
-        "shuju": "<bbh>2024.11.23</bbh>",
+        "banben": "<bbh>2024.11.25</bbh><gxsm>修正去广告</gxsm><xzdz>app#mg241125#C9BE9EDAAC8CCD1A15D1F7A41DB6D15639F45B841D20881164BDBD913C760FF6DCCC9892CD</xzdz>",
+        "shuju": "<bbh>2024.11.25</bbh>",
         "ads": [
             "mimg.0c1q0l.cn",
             "www.googletagmanager.com",
