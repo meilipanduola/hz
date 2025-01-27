@@ -40,6 +40,10 @@
                 "url": "http://ffzy4.tv/api.php/provide/vod/"
             },
             {
+                "name": "⑱豆瓣",
+                "url": "https://caiji.dbzy.tv/api.php/provide/vod/"
+            },
+            {
                 "name": "⑬小黄人",
                 "url": "https://iqyi.xiaohuangrentv.com/api.php/provide/vod/"
             },
